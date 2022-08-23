@@ -1,0 +1,17 @@
+.image-container{
+    max-width: 100%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
+.image-container-rounded{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+}
+.image-container img{
+    max-width: 100%;
+}
+.img-rounded-edge{
+    border-radius: 10px;
+}
